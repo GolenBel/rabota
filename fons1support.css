@@ -1,0 +1,377 @@
+body {
+    background-attachment: fixed;
+    background-image: url('image/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fons31 {
+    position: relative;
+    left: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/69ff3cac13b27b95a08d9631d55b174c.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons32 {
+    position: relative;
+    left: 30px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/70a8f40f8f091efe73a0820fe33f4dc8.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons33 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/94e75ca8544f570c1bd8be60fab91793.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons34 {
+    position: relative;
+    left: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/162f9f266f3a5268ac55f47ea66a03f0.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons35 {
+    position: relative;
+    left: 30px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/466fa595-1d9a-4134-951e-b4f3909bebd1_900_900.png);
+    background-size: 100% 100%;
+}
+
+.fons36 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/508bd14a792d097ae1171e038af077b1.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons37 {
+    position: relative;
+    left: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/731e539b2828ae27d53ea98c6a20dbbb.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons38 {
+    position: relative;
+    left: 30px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/846e57855d6304226c1a0f5513a15f42.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons39 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/04596bf1df3a1dcb4132004a4e917aa6.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons40 {
+    position: relative;
+    left: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/006859d50de43539a41faee646778646.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons41 {
+    position: relative;
+    left: 30px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/93562fc7862d1383405f484d9043c5d6.jpg);
+    background-size: 100% 100%;
+}
+
+.fons42 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/117590-anime-One-Punch-Man-Yusuke-Murata-Silver-Fang.png);
+    background-size: 100% 100%;
+}
+
+.fons43 {
+    position: relative;
+    left: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/119216-zhivopis-mikasa_akerman-devuska-solnechnyj_svet-eren_jeger-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons44 {
+    position: relative;
+    left: 30px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/154997-Full-Metal-Alchemist-anime-boys-illustration-simple-background.jpg);
+    background-size: 100% 100%;
+}
+
+.fons45 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/176539-yagami_lajt-ryuk-tetrad_smerti-r_e_m-multik-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons106 {
+    position: relative;
+    left: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/ChainsawManRevelaVisualEspetacularFeitoparaumaRevista.jpg);
+    background-size: 100% 100%;
+}
+
+.fons107 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/chainsaw-man-denji-1920x1080-8965.png);
+    background-size: 100% 100%;
+}
+
+.fons108 {
+    position: relative;
+    left: 45px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/chainsaw-man-wc-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons109 {
+    position: relative;
+    left: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/da822ca29c0fdd0826122e6023598073.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons110 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/dead-note-tetrad-smerti-parni-el.jpg);
+    background-size: 100% 100%;
+}
+
+.fons111 {
+    position: relative;
+    left: 45px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/death-note.jpg);
+    background-size: 100% 100%;
+}
+
+.fons1110 {
+    position: relative;
+    left: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/Chainsaw-Man-Wallpaper-3.jpg);
+    background-size: 100% 100%;
+}
+
+.fons112 {
+    position: relative;
+    left: 30px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/death-note-4k-qz3ob1nxzvm36frq.jpg);
+    background-size: 100% 100%;
+}
+
+.fons113 {
+    position: relative;
+    left: 45px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/death-note-aesthetic-yk0g75zo191pgftc.jpg);
+    background-size: 100% 100%;
+}
+
+.fons114 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/death-note-background-full-hd-1920x1080-402471.jpg);
+    background-size: 100% 100%;
+}
+
+.fons115 {
+    position: relative;
+    left: 30px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/demon-slayer-the-movie-mas-taquillera.jpg);
+    background-size: 100% 100%;
+}
+
+.fons116 {
+    position: relative;
+    left: 45px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/denji-chainsaw-man-devil-hunter-1920x1080-8970.jpg);
+    background-size: 100% 100%;
+}
+
+.fons117 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/e5c4e54129fff6f4ddae450fc6cc5388.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons118 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/e6e5580ca9927d10fb15af546dcc3868.jpg);
+    background-size: 100% 100%;
+}
+
+.fons119 {
+    position: relative;
+    left: 45px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/e76e348e696887cbd6fec3c3c27833bf.jpeg);
+    background-size: 100% 100%;
+}
+
+.last {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 250px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.last1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 4360px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 4300px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.one {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 800px;
+}
+
+.gl {
+    color: aqua;
+}
+
+.full {
+    cursor: pointer;
+}
+
+.text {
+    object-fit: cover;
+    width: 1000px;
+    height: 350px;
+    top: 50px;
+    position: relative;
+}

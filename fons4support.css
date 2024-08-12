@@ -1,0 +1,380 @@
+body {
+    background-attachment: fixed;
+    background-image: url('image/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fons76 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 150px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1678438051_gas-kvas-com-p-belii-risunok-na-chernom-fone-anime-36.jpg);
+    background-size: 100% 100%;
+}
+
+.fons77 {
+    position: relative;
+    left: 30px;
+    top: 150px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1679341672_phonoteka-org-p-vanpanchmen-blast-foni-krasivo-70.jpg);
+    background-size: 100% 100%;
+}
+
+.fons78 {
+    position: relative;
+    left: 45px;
+    top: 150px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1679705871_sneg-top-p-anime-oboi-magicheskaya-bitva-instagram-49.png);
+    background-size: 100% 100%;
+}
+
+.fons79 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1687897032_sneg-top-p-anime-avi-godzho-instagram-67.jpg);
+    background-size: 100% 100%;
+}
+
+.fons80 {
+    position: relative;
+    left: 30px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1688908080_art-kartinkof-club-p-arti-jujutsu-kaisen-46.jpg);
+    background-size: 100% 100%;
+}
+
+.fons81 {
+    position: relative;
+    left: 45px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1691940362_new_preview_kokushibo_muichiro_tokito_swords_4k_hd_demon_slayer_kimetsu_no_yaiba-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons82 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1692245538_kartinki-pibig-info-p-kartinki-stalnoi-alkhimik-oboi-65.png);
+    background-size: 100% 100%;
+}
+
+.fons83 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/a1c8455f62c5355c3745b20ecc61f50b.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons84 {
+    position: relative;
+    left: 45px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/a360fb4a04b9b7c28e83cdf3e13d9e4f.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons85 {
+    position: relative;
+    left: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/adf0431285a5bda6de1d38a082993566.jpg);
+    background-size: 100% 100%;
+}
+
+.fons86 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/anime-death-note-kira-smert-1018331.jpg);
+    background-size: 100% 100%;
+}
+
+.fons87 {
+    position: relative;
+    left: 45px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/anime-death-note-tuchi-art-tetrad-smerti-991235.jpg);
+    background-size: 100% 100%;
+}
+
+.fons88 {
+    position: relative;
+    left: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/anime-digital-art-One-Punch-Man-Saitama-superhero-bald-anime-man-1795369.jpg);
+    background-size: 100% 100%;
+}
+
+.fons89 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/anime-one-punch-man-genos-1230225.jpg);
+    background-size: 100% 100%;
+}
+
+.fons90 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/anime-shingeki-no-kyojin-levi-1250899.jpg);
+    background-size: 100% 100%;
+}
+
+.fons150 {
+    position: relative;
+    left: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/light-yagami-and-ryuk-3c1ktwfypdenqmqg.jpg);
+    background-size: 100% 100%;
+}
+
+.fons151 {
+    position: relative;
+    left: 30px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/light-yagami-background-cguigrkwyd0u8lpc.jpg);
+    background-size: 100% 100%;
+}
+
+.fons152 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/light-yagami-paint-art-mxaev1ltrb5m8l3x.jpg);
+    background-size: 100% 100%;
+}
+
+.fons153 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/Makima.full.3830903.jpg);
+    background-size: 100% 100%;
+}
+
+.fons154 {
+    position: relative;
+    left: 30px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/makima-in-the-field-chainsaw-man-thumb.jpg);
+    background-size: 100% 100%;
+}
+
+.fons155 {
+    position: relative;
+    left: 45px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/maxresdefault.jpg);
+    background-size: 100% 100%;
+}
+
+.fons156 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/mech-devushka-magiia.jpg);
+    background-size: 100% 100%;
+}
+
+.fons157 {
+    position: relative;
+    left: 30px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/mikasa-ackerman-1920x1080-10461.jpg);
+    background-size: 100% 100%;
+}
+
+.fons158 {
+    position: relative;
+    left: 45px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/MV5BNzgzOWFkNDMtZDk3Ni00NmYyLWE2NTktNDY1MzQ3MDAxMWQzXkEyXkFqcGdeQXVyNzgxMzc3OTc@._V1_.jpg);
+    background-size: 100% 100%;
+}
+
+.fons159 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/mytopkid.com-wallpapers-naruto-background-12.jpg);
+    background-size: 100% 100%;
+}
+
+.fons160 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/mytopkid.com-wallpapers-naruto-background-54.jpg);
+    background-size: 100% 100%;
+}
+
+.fons161 {
+    position: relative;
+    left: 45px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/naruto-digital-art-black-background-amoled-1920x1080-5056.png);
+    background-size: 100% 100%;
+}
+
+.fons162 {
+    position: relative;
+    left: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/naruto-naruto-uzumaki-naruto-vzgliad-kurama.jpg);
+    background-size: 100% 100%;
+}
+
+.fons163 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/nCfuKCb.png);
+    background-size: 100% 100%;
+}
+
+.fons164 {
+    position: relative;
+    left: 45px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/one-punch-man-fubuki-garou-garou-king-saitama-sonic-1920x1080-7580.jpg);
+    background-size: 100% 100%;
+}
+
+.last {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 250px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.last1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 4360px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 4300px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.one {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 800px;
+}
+
+.gl {
+    color: aqua;
+}
+
+.full {
+    cursor: pointer;
+}
+
+.text {
+    object-fit: cover;
+    width: 1000px;
+    height: 350px;
+    top: 50px;
+    position: relative;
+}

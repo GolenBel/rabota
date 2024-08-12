@@ -1,0 +1,378 @@
+﻿body {
+    background-attachment: fixed;
+    background-image: url('image/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fons46 {
+    position: relative;
+    left: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/328920.jpg);
+    background-size: 100% 100%;
+}
+
+.fons47 {
+    position: relative;
+    left: 30px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/341394.jpg);
+    background-size: 100% 100%;
+}
+
+.fons48 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/510704-attack-on-titan.jpg);
+    background-size: 100% 100%;
+}
+
+.fons49 {
+    position: relative;
+    left: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/937761-Saitama-One-Punch-Man-anime.jpg);
+    background-size: 100% 100%;
+}
+
+.fons50 {
+    position: relative;
+    left: 30px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1469603-minimalistic-death-note-death-note-apples-x-anime.jpg);
+    background-size: 100% 100%;
+}
+
+.fons51 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1641456-1920x1080-desktop-full-hd-fullmetal-alchemist-anime-wallpaper-image.jpg);
+    background-size: 100% 100%;
+}
+
+.fons52 {
+    position: relative;
+    left: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1997460.jpg);
+    background-size: 100% 100%;
+}
+
+.fons53 {
+    position: relative;
+    left: 30px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/2434423.jpg);
+    background-size: 100% 100%;
+}
+
+.fons54 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/6122043c1b6b10f49c6d893d6ef2fe8c.jpg);
+    background-size: 100% 100%;
+}
+
+.fons55 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/8482359-2261805574-latest.png);
+    background-size: 100% 100%;
+}
+
+.fons56 {
+    position: relative;
+    left: 30px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/10988442.png);
+    background-size: 100% 100%;
+}
+
+.fons57 {
+    position: relative;
+    left: 45px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/13775982.jpg);
+    background-size: 100% 100%;
+}
+
+.fons58 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/13842219.jpg);
+    background-size: 100% 100%;
+}
+
+.fons59 {
+    position: relative;
+    left: 30px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/22495793.jpg);
+    background-size: 100% 100%;
+}
+
+.fons60 {
+    position: relative;
+    left: 45px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/23185410.jpg);
+    background-size: 100% 100%;
+}
+
+.fons120 {
+    position: relative;
+    left: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/e98c9d01564f89356faed7b56935b422.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons121 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/ec33ff319f816bda54fa75c307ef3e3a.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons122 {
+    position: relative;
+    left: 45px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/edward-elric-3840-x-2160-wallpaper-bxhkaxersr0x9sxd.jpg);
+    background-size: 100% 100%;
+}
+
+.fons123 {
+    position: relative;
+    left: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/edward-elric-fullmetal-alchemist-32058-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons124 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/eren-attack-on-titan-uhdpaper.com-4K-55.jpg);
+    background-size: 100% 100%;
+}
+
+.fons125 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/eren-war-for-paradis-attack-on-titan-thumb.jpg);
+    background-size: 100% 100%;
+}
+
+.fons126 {
+    position: relative;
+    left: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/f62bbda390454845425a036af96b18dd14be3e26.jpg);
+    background-size: 100% 100%;
+}
+
+.fons127 {
+    position: relative;
+    left: 30px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/fb976a23d44e757a4a2437b4163a42c7.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons128 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/fire-anime-tanjiro-and-nezuko-ib36ar8wec5oqx6s.jpg);
+    background-size: 100% 100%;
+}
+
+.fons129 {
+    position: relative;
+    left: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/Fond-Décran-Kakashi-Hatake-PC.jpg);
+    background-size: 100% 100%;
+}
+
+.fons130 {
+    position: relative;
+    left: 30px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/fonstola.ru_138153.jpg);
+    background-size: 100% 100%;
+}
+
+.fons131 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/Fubuki-Wallpaper-4k-For-Computer.jpg);
+    background-size: 100% 100%;
+}
+
+.fons132 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/fullmetal-alchemist-1920x1080-10420.png);
+    background-size: 100% 100%;
+}
+
+.fons133 {
+    position: relative;
+    left: 30px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/fullmetal-alchemist-brotherhood-edward-outline-dardt2xlzkn57frf.jpg);
+    background-size: 100% 100%;
+}
+
+.fons134 {
+    position: relative;
+    left: 45px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/fullmetal-alchemist-pictures-no56hj5a0wf0okf4.jpg);
+    background-size: 100% 100%;
+}
+
+.last {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 250px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.last1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 4360px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 4300px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.one {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 800px;
+}
+
+.gl {
+    color: aqua;
+}
+
+.full {
+    cursor: pointer;
+}
+
+.text {
+    object-fit: cover;
+    width: 1000px;
+    height: 350px;
+    top: 50px;
+    position: relative;
+}

@@ -1,0 +1,458 @@
+﻿body {
+    background-attachment: fixed;
+    background-image: url('image/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text {
+    object-fit: cover;
+    width: 850px;
+    height: 470px;
+    position: relative;
+    top: 250px;
+}
+
+.fons {
+    object-fit: cover;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    bottom: 480px;
+}
+
+.Note {
+    font-style: italic;
+    color: aqua;
+    position: absolute;
+    top: 650px;
+}
+
+.D {
+    transition: 1s;
+    border-style: outset;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 41%;
+    bottom: 580px;
+    background: url(image/Seti/D.png)
+}
+
+.D:hover {
+    transform: scale(1.2);
+}
+
+.wk {
+    transition: 1s;
+    border-style: outset;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 42%;
+    bottom: 580px;
+    background: url(image/Seti/wk.png)
+}
+
+.wk:hover {
+    transform: scale(1.2);
+}
+
+.tg {
+    transition: 1s;
+    border-style: outset;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 43%;
+    bottom: 580px;
+    background: url(image/Seti/tg.png)
+}
+
+.tg:hover {
+    transform: scale(1.2);
+}
+
+.x {
+    transition: 1s;
+    border-style: outset;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 44%;
+    bottom: 580px;
+    background: url(image/Seti/X.png)
+}
+
+.x:hover {
+    transform: scale(1.2);
+}
+
+.fons1 {
+    position: relative;
+    left:15px;
+    top:300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/0.55-1.png);
+    background-size: 100% 100%;
+}
+
+.fons2 {
+    position: relative;
+    left: 30px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/0cb2ef98620a641211e6abf14b06e0aa.png);
+    background-size: 100% 100%;
+}
+
+.fons3 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/0d3564e4cfa673a0b040b1e138527419.png);
+    background-size: 100% 100%;
+}
+
+.fons4 {
+    position: relative;
+    left: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1bc7392ab631706d3b73ca1494b90088.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons5 {
+    position: relative;
+    left: 30px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1f216decd042ec84b548bfd8da2dbd1a.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons6 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/2db6eea5-a458-4fa1-815e-bb005259146e.png);
+    background-size: 100% 100%;
+}
+
+.fons7 {
+    position: relative;
+    left: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/2f9d90635d7ac5efb0c2668fed0ab787.png);
+    background-size: 100% 100%;
+}
+
+.fons8 {
+    position: relative;
+    left: 30px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/3ab959eb876477a30a4975865af9e0af.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons9 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/3fe3acf209f0f672f7b4e6d2ebf91d28.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons10 {
+    position: relative;
+    left: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/3ff033abd971c2a1a9ac441bfca3226a.jpg);
+    background-size: 100% 100%;
+}
+
+.fons11 {
+    position: relative;
+    left: 30px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/4e19df91aaf4e0bb6c339ea5f767a71a.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons12 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/4k-background-9ispc2cdpmgxp1vu.jpg);
+    background-size: 100% 100%;
+}
+
+.fons13 {
+    position: relative;
+    left: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/5-29.jpg);
+    background-size: 100% 100%;
+}
+
+.fons14 {
+    position: relative;
+    left: 30px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/5ee6fbb2a397598f42009bd16e554f00.jpeg);
+    background-size: 100% 100%;
+}
+
+.fons15 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/006e045e.jpg);
+    background-size: 100% 100%;
+}
+
+
+.fons165 {
+    position: relative;
+    left: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/ryuk-death-note-makima-chainsaw-man-denji-devushka-poezd-iab.jpg);
+    background-size: 100% 100%;
+}
+
+.fons166 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/saitama-and-genos-in-the-rain-one-punch-man-thumb.jpg);
+    background-size: 100% 100%;
+}
+
+.fons167 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/saitama-one-punch-man-uhdpaper.com-8K-107.jpg);
+    background-size: 100% 100%;
+}
+
+.fons168 {
+    position: relative;
+    left: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/screen-6.jpg);
+    background-size: 100% 100%;
+}
+
+.fons169 {
+    position: relative;
+    left: 30px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/shingeki-no-kyojin-ataka-titanov-kapral-levi.jpg);
+    background-size: 100% 100%;
+}
+
+.fons170 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/shingeki-no-kyojin-mikasa-ackerman-anime-female-wallpaper.jpg);
+    background-size: 100% 100%;
+}
+
+.fons171 {
+    position: relative;
+    left: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/shinobu-kimetsu-no-yaiba-a8fwc7jnh28myow9.jpg);
+    background-size: 100% 100%;
+}
+
+.fons172 {
+    position: relative;
+    left: 30px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/shinobu-wallpaper-kolpaper-5.jpg);
+    background-size: 100% 100%;
+}
+
+.fons173 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/snow-anime-Anime-screenshot-Kimetsu-no-Yaiba-Giyu-Tomioka-Kimetsu-no-Yaiba-Tomioka-Giyuu-sword-samurai-Hashira-Kamado-Tanjiro-Kamado-Nezuko-demon-Demon-face-blood-nature-mountains-anime-boys-22521.jpg);
+    background-size: 100% 100%;
+}
+
+.fons174 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/sukuna-animated-drawing-4k-mgvy4syzrxckjdd8.jpg);
+    background-size: 100% 100%;
+}
+
+.fons175 {
+    position: relative;
+    left: 30px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/sukuna-knotting-up-magic-4k-0retohxw9u4n9q5u.jpg);
+    background-size: 100% 100%;
+}
+
+.fons176 {
+    position: relative;
+    left: 45px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/tanjiro-kitsune-mask-water-breathing-thumb.jpg);
+    background-size: 100% 100%;
+}
+
+.fons177 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 750px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-683014.png);
+    background-size: 100% 100%;
+}
+
+.fons178 {
+    position: relative;
+    left: 30px;
+    top: 750px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-737550.jpg);
+    background-size: 100% 100%;
+}
+
+.fons179 {
+    position: relative;
+    left: 45px;
+    top: 750px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-783050.jpg);
+    background-size: 100% 100%;
+}
+
+
+
+.full {
+    cursor: pointer;
+}
+
+.one {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top:850px;
+}
+
+.two {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 950px;
+}
+
+.three {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 1000px;
+}
+
+.gl {
+    color: aqua;
+}
+
+.last {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 295px;
+    background-image: url('image/Material/button/last.png');
+}
+
+.pk {
+    position: relative;
+    bottom: 450px;
+    font-size: 20px;
+}
+
+.last1 {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 4350px;
+    background-image: url('image/Material/button/last.png');
+}

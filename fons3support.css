@@ -1,0 +1,381 @@
+body {
+    background-attachment: fixed;
+    background-image: url('image/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fons61 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1465820979_stalnoy-alhim.jpg);
+    background-size: 100% 100%;
+}
+
+.fons62 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1612192365_147-p-fioletovii-fon-naruto-224.jpg);
+    background-size: 100% 100%;
+}
+
+.fons63 {
+    position: relative;
+    left: 45px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1613029620_151-p-naruto-na-oranzhevom-fone-213.jpg);
+    background-size: 100% 100%;
+}
+
+.fons64 {
+    position: relative;
+    left: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1613321992_118-p-naruto-sinii-fon-158.jpg);
+    background-size: 100% 100%;
+}
+
+.fons65 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1614391888_40-p-temnii-fon-naruto-52.jpg);
+    background-size: 100% 100%;
+}
+
+.fons66 {
+    position: relative;
+    left: 45px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1614772329_97-p-naruto-foni-119.jpg);
+    background-size: 100% 100%;
+}
+
+.fons67 {
+    position: relative;
+    left: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1621853499_3.jpg);
+    background-size: 100% 100%;
+}
+
+.fons68 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1659442452_57-kartinkin-net-p-arti-po-anime-tetrad-smerti-oboi-57.jpg);
+    background-size: 100% 100%;
+}
+
+.fons69 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1660996586_24-kartinkin-net-p-tatsumaki-oboi-krasivo-29.jpg);
+    background-size: 100% 100%;
+}
+
+.fons70 {
+    position: relative;
+    left: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1666740390.jpg);
+    background-size: 100% 100%;
+}
+
+.fons71 {
+    position: relative;
+    left: 30px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1667247216_2-celes-club-p-saske-oboi-na-rabochii-stol-pinterest-2.png);
+    background-size: 100% 100%;
+}
+
+.fons72 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1667387836_21-celes-club-p-magicheskaya-bitva-fon-vkontakte-22.jpg);
+    background-size: 100% 100%;
+}
+
+.fons73 {
+    position: relative;
+    left: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1669679575_46-pibig-info-p-satoru-godzho-oboi-krasivo-53.jpg);
+    background-size: 100% 100%;
+}
+
+.fons74 {
+    position: relative;
+    left: 30px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1671001200_cerenas-club-p-anime-fon-klinok-rassekayushchii-demonov-k-7.png);
+    background-size: 100% 100%;
+}
+
+.fons75 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/1673316698_gas-kvas-com-p-anime-vanpanchmen-risunki-31.jpg);
+    background-size: 100% 100%;
+}
+
+.fons135 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/gojo-sataru-zkbkkxymynvrt9je.jpg);
+    background-size: 100% 100%;
+}
+
+.fons136 {
+    position: relative;
+    left: 30px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/gojo-satoru-holding-his-face-iyrluirbzvncz77a.jpg);
+    background-size: 100% 100%;
+}
+
+.fons137 {
+    position: relative;
+    left: 45px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/gotham_17_1263_oboi_tetrad_smerti_fanart_1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons138 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/hatake-kakashi-chidori-naruto-shippuden-thumb.jpg);
+    background-size: 100% 100%;
+}
+
+.fons139 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/illustration-anime-Person-Death-Note-Yagami-Light-Ryuk-screenshot-mangaka-120908.jpg);
+    background-size: 100% 100%;
+}
+
+.fons140 {
+    position: relative;
+    left: 45px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/img3.wallspic.com-makima_chainsaw_man_2k-makima-chainsaw_man-anime-sleeve-1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons141 {
+    position: relative;
+    left: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/Itachi-Uchiha-Wallpaper-04-1920x1080-1.jpg);
+    background-size: 100% 100%;
+}
+
+.fons142 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/jujutskais2-1689204703475.jpg);
+    background-size: 100% 100%;
+}
+
+.fons143 {
+    position: relative;
+    left: 45px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/jujutsu-kaisen-desktop-dtgkjelf6sv0733w.jpg);
+    background-size: 100% 100%;
+}
+
+.fons144 {
+    position: relative;
+    left: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/kamado-tanjiro-fire-katana-theme-kimetsu-no-yaiba-thumb.jpg);
+    background-size: 100% 100%;
+}
+
+.fons145 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/kartinkof-club-p-oboi-devushki-naruto-19.jpg);
+    background-size: 100% 100%;
+}
+
+.fons146 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/katana-hybrid-form-from-chainsaw-man-wallpaper-1920x1080_48.jpg);
+    background-size: 100% 100%;
+}
+
+.fons147 {
+    position: relative;
+    left: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/KimetsunoYaiba-04-Large01.jpg);
+    background-size: 100% 100%;
+}
+
+.fons148 {
+    position: relative;
+    left: 30px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/KimetsunoYaiba-19-Large25.jpg);
+    background-size: 100% 100%;
+}
+
+.fons149 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/kimetsu-no-yaiba-2560-x-1440-background-qn4nzq2falgzjk2s.jpg);
+    background-size: 100% 100%;
+}
+
+.last {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 250px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 190px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.last1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    left: 1650px;
+    top: 4360px;
+    background-image: url('image/Material/button/last.png');
+    cursor: pointer;
+}
+
+.back1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 4300px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.one {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 800px;
+}
+
+.gl {
+    color: aqua;
+}
+
+.full {
+    cursor: pointer;
+}
+
+.text {
+    object-fit: cover;
+    width: 1000px;
+    height: 350px;
+    top: 50px;
+    position: relative;
+}

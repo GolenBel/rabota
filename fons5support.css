@@ -1,0 +1,425 @@
+body {
+    background-attachment: fixed;
+    background-image: url('image/1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fons180 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-850960.jpg);
+    background-size: 100% 100%;
+}
+
+.fons181 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-862103.jpg);
+    background-size: 100% 100%;
+}
+
+.fons182 {
+    position: relative;
+    left: 45px;
+    top: 250px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-891560.jpg);
+    background-size: 100% 100%;
+}
+
+.fons183 {
+    position: relative;
+    left: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-937858.jpg);
+    background-size: 100% 100%;
+}
+
+.fons184 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1016204.jpg);
+    background-size: 100% 100%;
+}
+
+.fons185 {
+    position: relative;
+    left: 45px;
+    top: 300px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1113492.jpg);
+    background-size: 100% 100%;
+}
+
+.fons186 {
+    position: relative;
+    left: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1134110.jpg);
+    background-size: 100% 100%;
+}
+
+.fons187 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1143240.jpg);
+    background-size: 100% 100%;
+}
+
+.fons188 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 350px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1144131.jpg);
+    background-size: 100% 100%;
+}
+
+.fons189 {
+    position: relative;
+    left: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1144132.jpg);
+    background-size: 100% 100%;
+}
+
+.fons190 {
+    position: relative;
+    left: 30px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1144158.jpg);
+    background-size: 100% 100%;
+}
+
+.fons191 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 400px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1144284.jpg);
+    background-size: 100% 100%;
+}
+
+.fons192 {
+    position: relative;
+    left: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1154476.jpg);
+    background-size: 100% 100%;
+}
+
+.fons193 {
+    position: relative;
+    left: 30px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1182462.jpg);
+    background-size: 100% 100%;
+}
+
+.fons194 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 450px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1191956.jpg);
+    background-size: 100% 100%;
+}
+
+.fons195 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1205668.jpg);
+    background-size: 100% 100%;
+}
+
+.fons196 {
+    position: relative;
+    left: 30px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1209971.jpg);
+    background-size: 100% 100%;
+}
+
+.fons197 {
+    position: relative;
+    left: 45px;
+    top: 500px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1259666.jpg);
+    background-size: 100% 100%;
+}
+
+.fons198 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1277674.jpg);
+    background-size: 100% 100%;
+}
+
+.fons199 {
+    position: relative;
+    left: 30px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1280518.jpg);
+    background-size: 100% 100%;
+}
+
+.fons200 {
+    position: relative;
+    left: 45px;
+    top: 550px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1286632.jpg);
+    background-size: 100% 100%;
+}
+
+.fons201 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1286706.jpg);
+    background-size: 100% 100%;
+}
+
+.fons202 {
+    position: relative;
+    left: 30px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1292344.png);
+    background-size: 100% 100%;
+}
+
+.fons203 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 600px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1324832.png);
+    background-size: 100% 100%;
+}
+
+.fons204 {
+    position: relative;
+    left: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/thumb-1920-1331193.png);
+    background-size: 100% 100%;
+}
+
+.fons205 {
+    position: relative;
+    left: 30px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/uomlg-JWM4ZMJATR3-Full-Image_GalleryBackground-en-US-1572961461852._RI_.jpg);
+    background-size: 100% 100%;
+}
+
+.fons206 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 650px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wallpaper_00130263.jpg);
+    background-size: 100% 100%;
+}
+
+.fons207 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wallpapersden.com_anime-space-posture_1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons208 {
+    position: relative;
+    left: 30px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wallpapersden.com_asa-mitaka-the-war-devil-digital-chainsaw-man_1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons209 {
+    position: relative;
+    left: 45px;
+    top: 700px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wallpapersden.com_chainsaw-man-5k-denji-cool-2022_1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons210 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 750px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wallpapersden.com_eren-yeager-in-aot_1920x1080.jpg);
+    background-size: 100% 100%;
+}
+
+.fons211 {
+    position: relative;
+    left: 30px;
+    top: 750px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/warrior-mikasa-white-sketch-in-black-background-wallpaper-1920x1080_48.jpg);
+    background-size: 100% 100%;
+}
+
+.fons212 {
+    position: relative;
+    left: 45px;
+    top: 750px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wOAozXaT.png);
+    background-size: 100% 100%;
+}
+
+.fons213 {
+    position: relative;
+    left: 45px;
+    right: 15px;
+    top: 800px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wOAozXaT.png);
+    background-size: 100% 100%;
+}
+
+.fons214 {
+    position: relative;
+    left: 15px;
+    right: 15px;
+    top: 800px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wp5231399.jpg);
+    background-size: 100% 100%;
+}
+
+.fons215 {
+    position: relative;
+    left: 30px;
+    right: 15px;
+    top: 800px;
+    width: 32%;
+    height: 350px;
+    background-image: url(image/Material/fons/wp11253614.jpg);
+    background-size: 100% 100%;
+}
+
+.back {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 240px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.back1 {
+    width: 200px;
+    height: 50px;
+    position: Relative;
+    top: 5100px;
+    background-image: url('image/Material/button/back.png');
+    cursor: pointer;
+}
+
+.one {
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 900px;
+}
+
+.gl {
+    color: aqua;
+}
+
+
+.full {
+    cursor: pointer;
+}
+
+.text {
+    object-fit: cover;
+    width: 1000px;
+    height: 350px;
+    top: 50px;
+    position: relative;
+}
